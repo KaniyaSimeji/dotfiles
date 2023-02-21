@@ -1,0 +1,3 @@
+[submodule "viminit"]
+	path = viminit
+	url = https://github.com/KaniyaSimeji/viminit.git
